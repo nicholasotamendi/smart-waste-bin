@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SMART WASTE BIN
 
 
