@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SMART WASTE BIN
 
 
@@ -55,8 +56,9 @@ The **database** system used here is MongoDB, a NoSQL database which stores all 
 
 The diagram below shows how the three blocks that make up the system are connected.
 
-![IOT Bin Diagram](./report/IOTBinDiagram.jpg)
+
 
 **Link to Code**
 
-[**edwardoboh/smart-bin: IoT Project of a smart waste bin to detect volume of dirt and presence of foul smell (github.com)**](https://github.com/edwardoboh/smart-bin)
+[**odeyNicholas/smart-bin: IoT Project of a smart waste bin to detect volume of dirt and presence of foul smell in the waste bin]
+
